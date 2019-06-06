@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+
+h1 {
+  font-family: 'Comic Sans MS';
+}
+
+header {
+  font-family: 'Comic Sans MS';
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.header-links {
+  padding: 50px;
+  
+}
